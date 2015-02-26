@@ -2,7 +2,7 @@ package arrays;
 
 /**
  *
- * @author Jordi
+ * @author Jordi ola
  * @version 1.0
  */
 import java.util.Scanner;
